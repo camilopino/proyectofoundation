@@ -1,0 +1,29 @@
+
+.favoritos
+{
+  height: 70px;
+}
+.encabezado
+{
+  background: #FBE064;
+  opacity: 0.9;
+}
+section
+{
+  background: url(../img/9.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+h1
+{
+  font-style: oblique;
+}
+
+.articulos
+{
+  background: #E16F6F;
+  opacity: 0.9;
+}
